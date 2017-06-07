@@ -1,4 +1,5 @@
 *.pc
+gbuild/
 /build/vc6/*.rc
 /build/*.rc
 /build/*/*.sdf
